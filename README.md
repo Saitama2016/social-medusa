@@ -1,5 +1,5 @@
-#socialMedusa
-<h2>Purpose:<h2>
+##socialMedusa
+<h2>Purpose:</h2>
 <p>We want to create a GUI to analyze the correlation between Social Media Activity and Mental Health.
     There is a rising concern in anxiety and depression among Millenials and Generation Z and we want to script data from the leading social media sites to seek any factors related to negative mental health impacts.
 </p>
