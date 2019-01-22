@@ -22,6 +22,12 @@
     "not ie <= 11",
     "not op_mini all"
   ],
+  "babel": {
+    "presets": [
+      "es2015",
+      "react"
+    ]
+  },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^8.0.5",
